@@ -3,10 +3,10 @@
 Group Number: 3
 
 # Team Members: 
-              1. Shiva Kumar
-              2. Tanishq Shukla
-              3. Prateek Bhardwaj
-              4. Tushar Kumar
+              1. Aditya Nahariya
+              2. Balkrishna Jha
+              3. Aman Kumar Jha
+              4. Aman Kumar Pandey
 
 
 # About
